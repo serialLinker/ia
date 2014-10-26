@@ -16,6 +16,7 @@ import java.util.List;
 public class Main {
 
     public static void main(String[] args) throws Exception {
+        /*
         List<Ville> villes = cas1();
         Ville depart = villes.get(0);
         Ville arrivee = villes.get(villes.size() - 1);
@@ -93,5 +94,6 @@ public class Main {
         c.ajouterVoisine(d, 2);
 
         return villes;
+                */
     }
 }
