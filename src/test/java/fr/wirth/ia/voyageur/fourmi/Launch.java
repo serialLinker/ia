@@ -6,7 +6,6 @@
 package fr.wirth.ia.voyageur.fourmi;
 
 import fr.wirth.ia.voyageur.Ville;
-import fr.wirth.ia.voyageur.VilleManager;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
